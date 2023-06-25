@@ -9,10 +9,7 @@ layout: home
   <title>Move Embedded Iframe to the Left Example</title>
   <style>
     .iframe-container {
-      text-align: left;
-      margin-left: auto;
-      margin-right: auto;
-      max-width: 1200px;
+      margin-left: -5cm;
     }
   </style>
 </head>
