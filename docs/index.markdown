@@ -5,7 +5,7 @@
 layout: home
 ---
   
-<iframe src="https://www.wolframcloud.com/obj/5ca2ecbc-732a-498e-b6ad-8f44109b20d7?_embed=iframe" width="600" height="800"></iframe>
+<iframe src="https://www.wolframcloud.com/obj/5ca2ecbc-732a-498e-b6ad-8f44109b20d7?_embed=iframe" width="1200" height="600"></iframe>
 
   <!-- Rest of your HTML content goes here -->
 
